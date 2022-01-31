@@ -11,7 +11,7 @@ By examining the PyBer Summary Dataframe, we see the following statistics:
 
 Furthermore, by examining the "Total Fare by City Type" line chart, we see that at any given point in time between Jan 2019 and Apr 2019, Rural cities have the lowest Total Fare, while Urban cities have the greatest total fare, and yet again, Suburban cities take 2nd place. 
 
-- [PyBer Fare Summary]analysis/PyBer_fare_summary.png)
+- [PyBer Fare Summary](analysis/PyBer_fare_summary.png)
 
 ## Summary
 1. Cut the number of drivers in Urban cities. Referencing the Summary Dataframe, in Urban cities, the Total number of Drivers outnumbered the Total number of Rides. Specifically, 800 drivers didn't even fulfill a single ride during the given time frame. No other city type shares this same characteristic. 
